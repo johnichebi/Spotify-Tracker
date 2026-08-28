@@ -1,5 +1,3 @@
-
-````markdown
 # Spotify Stats
 
 A small Python project that uses the Spotify API to collect and analyze listening data.
@@ -62,5 +60,4 @@ python main.py
 
 Early development. The current version focuses on getting the core Spotify data collection working. More advanced statistics, visualizations, and dynamic playlist features will be added in future versions.
 
-```
 ```
