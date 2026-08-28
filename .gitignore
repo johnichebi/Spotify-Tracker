@@ -1,0 +1,10 @@
+.env
+.spotify_cache
+__pycache__/
+*.py[cod]
+
+.vscode/
+data.ipynb
+current.json
+result.json
+top_songs.json
